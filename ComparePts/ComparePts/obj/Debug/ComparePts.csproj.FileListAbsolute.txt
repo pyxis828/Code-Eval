@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ComparePts\ComparePts\bin\Debug\ComparePts.exe.config
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\ComparePts\ComparePts\bin\Debug\ComparePts.exe
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\ComparePts\ComparePts\bin\Debug\ComparePts.pdb
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\ComparePts\ComparePts\obj\Debug\ComparePts.csprojResolveAssemblyReference.cache
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\ComparePts\ComparePts\obj\Debug\ComparePts.exe
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\ComparePts\ComparePts\obj\Debug\ComparePts.pdb

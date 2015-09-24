@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\RemoveCharacters\RemoveCharacters\bin\Debug\RemoveCharacters.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\RemoveCharacters\RemoveCharacters\bin\Debug\RemoveCharacters.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\RemoveCharacters\RemoveCharacters\bin\Debug\RemoveCharacters.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\RemoveCharacters\RemoveCharacters\obj\Debug\RemoveCharacters.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\RemoveCharacters\RemoveCharacters\obj\Debug\RemoveCharacters.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\RemoveCharacters\RemoveCharacters\obj\Debug\RemoveCharacters.pdb

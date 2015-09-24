@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\readMore\readMore\bin\Debug\readMore.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\readMore\readMore\bin\Debug\readMore.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\readMore\readMore\bin\Debug\readMore.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\readMore\readMore\obj\Debug\readMore.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\readMore\readMore\obj\Debug\readMore.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\readMore\readMore\obj\Debug\readMore.pdb

@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ageDistribution\ageDistribution\bin\Debug\ageDistribution.exe.config
+C:\Users\Kirstin Walsh\documents\visual studio 2015\Projects\ageDistribution\ageDistribution\bin\Debug\ageDistribution.exe
+C:\Users\Kirstin Walsh\documents\visual studio 2015\Projects\ageDistribution\ageDistribution\bin\Debug\ageDistribution.pdb
+C:\Users\Kirstin Walsh\documents\visual studio 2015\Projects\ageDistribution\ageDistribution\obj\Debug\ageDistribution.csprojResolveAssemblyReference.cache
+C:\Users\Kirstin Walsh\documents\visual studio 2015\Projects\ageDistribution\ageDistribution\obj\Debug\ageDistribution.exe
+C:\Users\Kirstin Walsh\documents\visual studio 2015\Projects\ageDistribution\ageDistribution\obj\Debug\ageDistribution.pdb

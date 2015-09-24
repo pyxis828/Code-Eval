@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\capitalizeWords\capitalizeWords\bin\Debug\capitalizeWords.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\capitalizeWords\capitalizeWords\bin\Debug\capitalizeWords.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\capitalizeWords\capitalizeWords\bin\Debug\capitalizeWords.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\capitalizeWords\capitalizeWords\obj\Debug\capitalizeWords.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\capitalizeWords\capitalizeWords\obj\Debug\capitalizeWords.pdb
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\capitalizeWords\capitalizeWords\obj\Debug\capitalizeWords.csprojResolveAssemblyReference.cache

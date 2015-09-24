@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PenultimateWord\PenultimateWord\bin\Debug\PenultimateWord.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PenultimateWord\PenultimateWord\bin\Debug\PenultimateWord.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PenultimateWord\PenultimateWord\bin\Debug\PenultimateWord.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PenultimateWord\PenultimateWord\obj\Debug\PenultimateWord.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PenultimateWord\PenultimateWord\obj\Debug\PenultimateWord.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PenultimateWord\PenultimateWord\obj\Debug\PenultimateWord.pdb

@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SimpleSort Reboot\SimpleSort Reboot\bin\Debug\SimpleSort Reboot.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SimpleSort Reboot\SimpleSort Reboot\bin\Debug\SimpleSort Reboot.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SimpleSort Reboot\SimpleSort Reboot\bin\Debug\SimpleSort Reboot.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SimpleSort Reboot\SimpleSort Reboot\obj\Debug\SimpleSort Reboot.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SimpleSort Reboot\SimpleSort Reboot\obj\Debug\SimpleSort Reboot.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SimpleSort Reboot\SimpleSort Reboot\obj\Debug\SimpleSort Reboot.pdb

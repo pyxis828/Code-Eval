@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\bin\Debug\sumOfDigits.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\bin\Debug\sumOfDigits.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\bin\Debug\sumOfDigits.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\obj\Debug\sumOfDigits.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\obj\Debug\sumOfDigits.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\sumOfDigits\sumOfDigits\obj\Debug\sumOfDigits.pdb
