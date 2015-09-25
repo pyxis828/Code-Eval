@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.pdb

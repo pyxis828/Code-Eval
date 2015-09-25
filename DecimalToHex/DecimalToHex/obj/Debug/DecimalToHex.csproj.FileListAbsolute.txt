@@ -1,0 +1,5 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\DecimalToHex\DecimalToHex\bin\Debug\DecimalToHex.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\DecimalToHex\DecimalToHex\bin\Debug\DecimalToHex.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\DecimalToHex\DecimalToHex\bin\Debug\DecimalToHex.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\DecimalToHex\DecimalToHex\obj\Debug\DecimalToHex.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\DecimalToHex\DecimalToHex\obj\Debug\DecimalToHex.pdb
