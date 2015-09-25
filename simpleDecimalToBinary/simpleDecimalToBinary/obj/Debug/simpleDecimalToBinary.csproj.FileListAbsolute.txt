@@ -1,0 +1,5 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\simpleDecimalToBinary\simpleDecimalToBinary\bin\Debug\simpleDecimalToBinary.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\simpleDecimalToBinary\simpleDecimalToBinary\bin\Debug\simpleDecimalToBinary.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\simpleDecimalToBinary\simpleDecimalToBinary\bin\Debug\simpleDecimalToBinary.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\simpleDecimalToBinary\simpleDecimalToBinary\obj\Debug\simpleDecimalToBinary.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\simpleDecimalToBinary\simpleDecimalToBinary\obj\Debug\simpleDecimalToBinary.pdb
