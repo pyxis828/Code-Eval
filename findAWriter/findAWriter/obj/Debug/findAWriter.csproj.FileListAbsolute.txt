@@ -1,0 +1,9 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\findAWriter\findAWriter\bin\Debug\findAWriter.exe.config
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\findAWriter\findAWriter\bin\Debug\findAWriter.exe
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\findAWriter\findAWriter\bin\Debug\findAWriter.pdb
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\findAWriter\findAWriter\obj\Debug\findAWriter.csprojResolveAssemblyReference.cache
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\findAWriter\findAWriter\obj\Debug\findAWriter.exe
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Projects\findAWriter\findAWriter\obj\Debug\findAWriter.pdb
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Code Eval\findAWriter\findAWriter\bin\Debug\findAWriter.exe.config
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Code Eval\findAWriter\findAWriter\obj\Debug\findAWriter.exe
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Code Eval\findAWriter\findAWriter\obj\Debug\findAWriter.pdb
