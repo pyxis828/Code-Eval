@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\NModMwithoutMod\NModMwithoutMod\bin\Debug\NModMwithoutMod.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\NModMwithoutMod\NModMwithoutMod\bin\Debug\NModMwithoutMod.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\NModMwithoutMod\NModMwithoutMod\bin\Debug\NModMwithoutMod.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\NModMwithoutMod\NModMwithoutMod\obj\Debug\NModMwithoutMod.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\NModMwithoutMod\NModMwithoutMod\obj\Debug\NModMwithoutMod.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\NModMwithoutMod\NModMwithoutMod\obj\Debug\NModMwithoutMod.pdb

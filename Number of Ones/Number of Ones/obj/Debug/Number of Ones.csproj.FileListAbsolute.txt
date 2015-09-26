@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\Number of Ones\Number of Ones\bin\Debug\Number of Ones.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\Number of Ones\Number of Ones\bin\Debug\Number of Ones.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\Number of Ones\Number of Ones\bin\Debug\Number of Ones.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\Number of Ones\Number of Ones\obj\Debug\Number of Ones.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\Number of Ones\Number of Ones\obj\Debug\Number of Ones.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\Number of Ones\Number of Ones\obj\Debug\Number of Ones.pdb

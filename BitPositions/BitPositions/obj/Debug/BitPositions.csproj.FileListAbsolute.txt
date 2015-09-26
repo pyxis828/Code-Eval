@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\BitPositions\BitPositions\bin\Debug\BitPositions.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\BitPositions\BitPositions\bin\Debug\BitPositions.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\BitPositions\BitPositions\bin\Debug\BitPositions.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\BitPositions\BitPositions\obj\Debug\BitPositions.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\BitPositions\BitPositions\obj\Debug\BitPositions.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\BitPositions\BitPositions\obj\Debug\BitPositions.pdb
