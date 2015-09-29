@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\MthtoLastElement\MthtoLastElement\bin\Debug\MthtoLastElement.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\MthtoLastElement\MthtoLastElement\bin\Debug\MthtoLastElement.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\MthtoLastElement\MthtoLastElement\bin\Debug\MthtoLastElement.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\MthtoLastElement\MthtoLastElement\obj\Debug\MthtoLastElement.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\MthtoLastElement\MthtoLastElement\obj\Debug\MthtoLastElement.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\MthtoLastElement\MthtoLastElement\obj\Debug\MthtoLastElement.pdb
