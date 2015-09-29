@@ -1,0 +1,12 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TrailingString\TrailingString\bin\Debug\TrailingString.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TrailingString\TrailingString\bin\Debug\TrailingString.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TrailingString\TrailingString\bin\Debug\TrailingString.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TrailingString\TrailingString\obj\Debug\TrailingString.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TrailingString\TrailingString\obj\Debug\TrailingString.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TrailingString\TrailingString\obj\Debug\TrailingString.pdb
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Code Eval\TrailingString\TrailingString\bin\Debug\TrailingString.exe.config
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Code Eval\TrailingString\TrailingString\obj\Debug\TrailingString.exe
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Code Eval\TrailingString\TrailingString\obj\Debug\TrailingString.pdb
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Code Eval\TrailingString\TrailingString\bin\Debug\TrailingString.exe
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Code Eval\TrailingString\TrailingString\bin\Debug\TrailingString.pdb
+C:\Users\Kirstin Walsh\Documents\Visual Studio 2015\Code Eval\TrailingString\TrailingString\obj\Debug\TrailingString.csprojResolveAssemblyReference.cache
