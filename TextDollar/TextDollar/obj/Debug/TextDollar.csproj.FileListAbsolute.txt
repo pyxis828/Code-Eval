@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TextDollar\TextDollar\bin\Debug\TextDollar.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TextDollar\TextDollar\bin\Debug\TextDollar.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TextDollar\TextDollar\bin\Debug\TextDollar.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TextDollar\TextDollar\obj\Debug\TextDollar.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TextDollar\TextDollar\obj\Debug\TextDollar.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\TextDollar\TextDollar\obj\Debug\TextDollar.pdb
