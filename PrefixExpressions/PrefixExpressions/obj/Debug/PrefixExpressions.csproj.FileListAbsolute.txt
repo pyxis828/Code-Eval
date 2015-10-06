@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PrefixExpressions\PrefixExpressions\bin\Debug\PrefixExpressions.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PrefixExpressions\PrefixExpressions\bin\Debug\PrefixExpressions.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PrefixExpressions\PrefixExpressions\bin\Debug\PrefixExpressions.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PrefixExpressions\PrefixExpressions\obj\Debug\PrefixExpressions.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PrefixExpressions\PrefixExpressions\obj\Debug\PrefixExpressions.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\PrefixExpressions\PrefixExpressions\obj\Debug\PrefixExpressions.pdb
