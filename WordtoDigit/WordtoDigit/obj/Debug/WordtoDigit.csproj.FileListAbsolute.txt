@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\WordtoDigit\WordtoDigit\bin\Debug\WordtoDigit.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\WordtoDigit\WordtoDigit\bin\Debug\WordtoDigit.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\WordtoDigit\WordtoDigit\bin\Debug\WordtoDigit.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\WordtoDigit\WordtoDigit\obj\Debug\WordtoDigit.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\WordtoDigit\WordtoDigit\obj\Debug\WordtoDigit.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\WordtoDigit\WordtoDigit\obj\Debug\WordtoDigit.pdb
