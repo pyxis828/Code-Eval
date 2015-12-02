@@ -11,7 +11,7 @@ namespace TextDollar                 //You are given a positive integer number. 
         static void Main(string[] args)         //always choose the one with the larger base i.e. TwoThousandTwoHundredDollars
         {
             StringBuilder result = new StringBuilder();          //to print result 
-            string line = "100000000";                           
+            string line = "13000";                           
             int length = line.Length;                            //establish length of number
             double number;                                       //declaring some variables
             int num;            
@@ -77,9 +77,10 @@ namespace TextDollar                 //You are given a positive integer number. 
                 num = Convert.ToInt32(number);
                 if (num == 1)
                 {
-                    numTeen = Convert.ToString(line[line.Length - 2]) + Convert.ToString(line[line.Length - 1]);
+                    numTeen = Convert.ToString(line[0]) + Convert.ToString(line[1]);
                     int final = Convert.ToInt32(numTeen);
                     result.Append(TeensConvert(final)+ "Thousand");
+                    Console.Write(result);
                 }
                 else
                 {
@@ -111,7 +112,7 @@ namespace TextDollar                 //You are given a positive integer number. 
                 num = Convert.ToInt32(number);
                 if (num == 1)
                 {
-                    numTeen = Convert.ToString(line[line.Length - 2]) + Convert.ToString(line[line.Length - 1]);
+                    numTeen = Convert.ToString(line[0]) + Convert.ToString(line[1]);
                     int final = Convert.ToInt32(numTeen);
                     result.Append(TeensConvert(final) + "Dollars");
                     Console.WriteLine(result);
