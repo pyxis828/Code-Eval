@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ReverseGroups\ReverseGroups\bin\Debug\ReverseGroups.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ReverseGroups\ReverseGroups\bin\Debug\ReverseGroups.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ReverseGroups\ReverseGroups\bin\Debug\ReverseGroups.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ReverseGroups\ReverseGroups\obj\Debug\ReverseGroups.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ReverseGroups\ReverseGroups\obj\Debug\ReverseGroups.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\ReverseGroups\ReverseGroups\obj\Debug\ReverseGroups.pdb

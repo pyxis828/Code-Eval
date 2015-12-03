@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SplitTheNumber\SplitTheNumber\bin\Debug\SplitTheNumber.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SplitTheNumber\SplitTheNumber\bin\Debug\SplitTheNumber.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SplitTheNumber\SplitTheNumber\bin\Debug\SplitTheNumber.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SplitTheNumber\SplitTheNumber\obj\Debug\SplitTheNumber.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SplitTheNumber\SplitTheNumber\obj\Debug\SplitTheNumber.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SplitTheNumber\SplitTheNumber\obj\Debug\SplitTheNumber.pdb

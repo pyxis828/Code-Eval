@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\uniqueElements\uniqueElements\bin\Debug\uniqueElements.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\uniqueElements\uniqueElements\obj\Debug\uniqueElements.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\uniqueElements\uniqueElements\bin\Debug\uniqueElements.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\uniqueElements\uniqueElements\bin\Debug\uniqueElements.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\uniqueElements\uniqueElements\obj\Debug\uniqueElements.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\uniqueElements\uniqueElements\obj\Debug\uniqueElements.pdb
